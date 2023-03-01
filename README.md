@@ -29,4 +29,4 @@ List here sources or content relevant to the project or its creation.
 
 ## 📜 License
 
-This project is made under the MIT license, for more information about its possible use and modification, [click here](LICENSE).
+This project is made under the MIT license, for more information about its possible use, modification, and sharing, [click here](LICENSE).
