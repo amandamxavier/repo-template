@@ -23,6 +23,10 @@ Describe the deploy process here.
 
 Feel free to open an issue if you find a bug or have a suggestion, so we can discuss the best way to improve or fix it.
 
+## 👋 Contributing
+
+You're always welcome to contribute to this project, just create your pull request, and wait for the review.
+
 ## 📎 Links
 
 List here sources or content relevant to the project or its creation.
