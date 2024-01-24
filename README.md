@@ -1,11 +1,24 @@
-# Project name ✨
+<p align="center">
+    ✨ Project name ✨
+</p>
 
-> ❓ Make a brief description of the project.
+<p align="center">
+    Make a brief description of the project.
+</p>
 
-<details>
-    <summary>Screenshot of the project</summary>
+<p align="center">
+  <a href="/" target="_blank">Production</a>
+   • 
+  <a href="/" target="_blank">Develop</a>
+</p>
+
+<p align="center">
     <img src="SCREENSHOT.gif">
-</details>
+</p>
+
+## 🎉 Features
+
+List the features of the project.
 
 ## 📋 Requirements
 
@@ -17,7 +30,7 @@ Describe the process and commands for using the project.
 
 ## 🚀 Deploy
 
-Describe the deploy process here.
+Describe the deployment process here.
 
 ## 📋 Issues
 
@@ -25,12 +38,12 @@ Feel free to open an issue if you find a bug or have a suggestion, so we can dis
 
 ## 👋 Contributing
 
-You're always welcome to contribute to this project, just create your pull request, and wait for the review.
-
-## 📎 Links
-
-List here sources or content relevant to the project or its creation.
+You're always welcome to contribute to this project, create your pull request, and wait for the review.
 
 ## 📜 License
 
 This project is made under the MIT license, for more information about its possible use, modification, and sharing, [click here](LICENSE).
+
+## 📎 Links
+
+List here sources or content relevant to the project or its creation.
