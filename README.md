@@ -46,7 +46,7 @@ npm install
 npm run dev
 ```
 
-**⚠️ Don't forget to run ESLint and Prettier before commit:**
+**⚠️ Don't forget to run ESLint and Prettier before committing:**
 
 ```console
 npm run lint
@@ -68,25 +68,27 @@ Feel free to open an issue if you find a bug or have a suggestion, so we can dis
 
 ## 🔒 Security Policy
 
-> **❓ This section is optional.**
+> **❓ This section and file are optional.**
 
 Wondering how we manage security updates and support older versions? 
 
-_For all this information, [click here](SECURITY)._
+_For all this information, [click here](SECURITY.md)._
 
 ## 👋 Contributing
 
+> **❓ This section and file are optional for solo projects.**
+
 You're always welcome to contribute to this project, create your pull request, and wait for the review.
 
-_For more information about how to contribute, [click here](CONTRIBUTING)._
+_For more information about how to contribute, [click here](CONTRIBUTING.md)._
 
 ## 📋 Code of Conduct
 
-> **❓ This section is optional for solo projects.**
+> **❓ This section and file are optional for solo projects.**
 
 We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community. 
 
-_For more information about our code of conduct, [click here](CODE_OF_CONDUCT)._
+_For more information about our code of conduct, [click here](CODE_OF_CONDUCT.md)._
 
 ## 📜 License
 
