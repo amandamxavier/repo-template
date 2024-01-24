@@ -30,4 +30,4 @@ All done? Now you can open a pull request and wait for the review.
 
 We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
-_For more information about our code of conduct, [click here](CODE_OF_CONDUCT)._
+_For more information about our code of conduct, [click here](CODE_OF_CONDUCT.md)._
