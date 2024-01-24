@@ -4,7 +4,7 @@
 
 > **💡 Describe the test requirements of the project, and provide a documentation link for additional information such as the following example.**
 
-_For more information about testing and coverage, [click here](LICENSE)._
+_For more information about testing and coverage, [click here](/)._
 
 ## Preparing the commit ✅
 
