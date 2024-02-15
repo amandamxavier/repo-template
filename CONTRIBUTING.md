@@ -1,33 +1,34 @@
-# 👋 How to contribute
+### 🧪 Code Coverage
 
-## Code Coverage 🧪
+Describe the test requirements of the project, and provide a documentation link for additional information such as the following example.
 
-> **💡 Describe the test requirements of the project, and provide a documentation link for additional information such as the following example.**
+&nbsp;
 
-_For more information about testing and coverage, [click here](/)._
+### 📦 Preparing the commit
 
-## Preparing the commit ✅
-
-> **💡 Describe the process and commands for use before committing, such as the following example:**
-
-1. Run ESLint and Prettier before committing:
+1. Check for ESLint errors:
 
 ```console
-npm run lint
+bun run lint
 ```
+
+2. Format the code with Prettier:
 
 ```console
-npm run format
+bun run format
 ```
 
-## Opening a pull request 📄
+&nbsp;
+
+### ✍️ Opening a pull request
 
 All done? Now you can open a pull request and wait for the review.
 
-**💡 Don't forget to correctly describe your committed activities and pull requests.**
+> [!IMPORTANT]  
+> Don't forget to correctly describe your committed activities and pull requests.
 
-## 📋 Code of Conduct
+&nbsp;
 
-We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+### 📜 Code of Conduct
 
-_For more information about our code of conduct, [click here](CODE_OF_CONDUCT.md)._
+See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
