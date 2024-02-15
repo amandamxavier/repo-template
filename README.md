@@ -10,12 +10,14 @@
 
 <p align="center">
 	<a href="https://github.com/amandamxavier/repo-template/stargazers">
-		<img alt="Stargazers" src="https://img.shields.io/github/stars/amandamxavier/repo-template?style=for-the-badge&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41">
-    </a>
-        <a href="https://github.com/amandamxavier/repo-template/issues"><img src="https://img.shields.io/github/issues/amandamxavier/repo-template?colorA=363a4f&colorB=f5a97f&style=for-the-badge">
-    </a>
-    <a href="https://github.com/amandamxavier/repo-template/contributors"><img src="https://img.shields.io/github/contributors/amandamxavier/repo-template?colorA=363a4f&colorB=a6da95&style=for-the-badge">
-    </a>
+		<img src="https://img.shields.io/github/stars/amandamxavier/repo-template?style=for-the-badge&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41">
+	</a>
+	<a href="https://github.com/amandamxavier/repo-template/issues">
+		<img src="https://img.shields.io/github/issues/amandamxavier/repo-template?colorA=363a4f&colorB=f5a97f&style=for-the-badge">
+	</a>
+	<a href="https://github.com/amandamxavier/repo-template/contributors">
+		<img src="https://img.shields.io/github/contributors/amandamxavier/repo-template?colorA=363a4f&colorB=a6da95&style=for-the-badge">
+	</a>
 </p>
 
 <p align="center">
@@ -32,10 +34,20 @@
 > [!TIP]  
 > List the features of the project.
 
+- **First example:** description here...
+- **Second example:** description here...
+- ...
+
+&nbsp;
+
 ### 🧰 Requirements
 
 > [!TIP]  
 > List the requirements for using the project.
+
+- [Node.js (^20.11.1)](http://nodejs.org/)
+
+&nbsp;
 
 ### 🛠 Usage
 
@@ -60,6 +72,8 @@ bun install
 bun run dev
 ```
 
+&nbsp;
+
 > [!IMPORTANT]  
 > Don't forget to run ESLint and Prettier before committing:
 
@@ -71,10 +85,14 @@ bun run lint
 bun run format
 ```
 
-### Deploy
+&nbsp;
+
+### 🚀 Deploy
 
 > [!TIP]  
 > Describe the deployment process.
+
+&nbsp;
 
 ### ✍️ Issues
 
@@ -83,14 +101,7 @@ Feel free to open an issue if you find a bug or have a suggestion, so we can dis
 > [!IMPORTANT]  
 > Fill out the issue template accordingly for accurate and faster responses.
 
-### 🔒 Security Policy
-
-> [!NOTE]  
-> This section and file are optional.
-
-Wondering how we manage security updates and support older versions? 
-
-See [SECURITY.md](SECURITY.md).
+&nbsp;
 
 ### 👐 Contributing
 
@@ -101,6 +112,8 @@ You're always welcome to contribute to this project, create your pull request, a
 
 See [CONTRIBUTING.md](CONTRIBUTING.md).
 
+&nbsp;
+
 ###  📜 Code of Conduct
 
 > [!NOTE]  
@@ -110,6 +123,18 @@ We pledge to act and interact in ways that contribute to an open, welcoming, div
 
 See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
+&nbsp;
+
+### 🔒 Security Policy
+
+> [!NOTE]  
+> This section and file are optional.
+
+Wondering how we manage security updates and support older versions? 
+
+See [SECURITY.md](SECURITY.md).
+
+&nbsp;
 
 ### 🔗 Links
 
@@ -119,7 +144,17 @@ See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 > [!TIP]  
 > List references or links relevant to the project or its creation.
 
+&nbsp;
+
 ---
 
-<p align="center">Copyright &copy; 2024 <a href="https://github.com/amandamxavier" target="_blank">Amanda Martins</a>
-<p align="center"><a href="https://github.com/amandamxavier/repo-template/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a></p>
+<p align="center">
+	Copyright &copy; 2024 
+	<a href="https://github.com/amandamxavier" target="_blank">
+		Amanda Martins
+	</a>
+<p align="center">
+	<a href="https://github.com/amandamxavier/repo-template/blob/main/LICENSE">
+		<img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/>
+	</a>
+</p>
