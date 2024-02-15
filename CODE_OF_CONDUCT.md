@@ -1,6 +1,7 @@
-> 💡 Change the [CONTACT_EMAIL] field with the contact email of the project.
+> [!IMPORTANT]
+> Change the [CONTACT_EMAIL] field with the contact email of the project.
 
-# 📋 Code of Conduct 
+# Code of Conduct 
 
 ## Our Pledge
 
