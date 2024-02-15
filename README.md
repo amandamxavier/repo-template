@@ -6,9 +6,11 @@
     <a href="/" target="_blank">Production</a>
     ·
     <a href="/" target="_blank">Develop</a>
+	·
+    <a href="/" target="_blank">Develop</a>
 </h6>
 
-<p align="center">
+<h6 align="center">
 	<a href="https://github.com/amandamxavier/repo-template/stargazers">
 		<img src="https://img.shields.io/github/stars/amandamxavier/repo-template?style=for-the-badge&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41">
 	</a>
@@ -18,21 +20,17 @@
 	<a href="https://github.com/amandamxavier/repo-template/contributors">
 		<img src="https://img.shields.io/github/contributors/amandamxavier/repo-template?colorA=363a4f&colorB=a6da95&style=for-the-badge">
 	</a>
-</p>
+</h6>
 
 <p align="center">
     Make a brief description of the project.
 </p>
-
 
 <p align="center">
     <img src="SCREENSHOT.gif" alt="Screenshot of the project">
 </p>
 
 ### ✨ Features
-
-> [!TIP]  
-> List the features of the project.
 
 - **First example:** description here...
 - **Second example:** description here...
@@ -42,17 +40,12 @@
 
 ### 🧰 Requirements
 
-> [!TIP]  
-> List the requirements for using the project.
-
 - [Node.js (^20.11.1)](http://nodejs.org/)
+- ...
 
 &nbsp;
 
 ### 🛠 Usage
-
-> [!TIP]  
-> Describe the process and commands for using the project, such as the following example.
 
 1. Clone the repository:
 
@@ -89,14 +82,13 @@ bun run format
 
 ### 🚀 Deploy
 
-> [!TIP]  
-> Describe the deployment process.
+Describe the deployment process.
 
 &nbsp;
 
 ### ✍️ Issues
 
-Feel free to open an issue if you find a bug or have a suggestion, so we can discuss the best way to improve or fix it.
+Feel free to open an issue if you find a bug or have a suggestion.
 
 > [!IMPORTANT]  
 > Fill out the issue template accordingly for accurate and faster responses.
@@ -108,8 +100,6 @@ Feel free to open an issue if you find a bug or have a suggestion, so we can dis
 > [!NOTE]  
 > This section and file are optional for solo projects.
 
-You're always welcome to contribute to this project, create your pull request, and wait for the review.
-
 See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 &nbsp;
@@ -118,8 +108,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 > [!NOTE]  
 > This section and file are optional for solo projects.
-
-We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community. 
 
 See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
@@ -130,8 +118,6 @@ See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 > [!NOTE]  
 > This section and file are optional.
 
-Wondering how we manage security updates and support older versions? 
-
 See [SECURITY.md](SECURITY.md).
 
 &nbsp;
@@ -141,8 +127,9 @@ See [SECURITY.md](SECURITY.md).
 > [!NOTE]  
 > This section is optional.
 
-> [!TIP]  
-> List references or links relevant to the project or its creation.
+- [Website](/)
+- [Documentation](/)
+- ...
 
 &nbsp;
 
