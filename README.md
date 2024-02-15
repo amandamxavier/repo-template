@@ -30,6 +30,8 @@
     <img src="SCREENSHOT.gif" alt="Screenshot of the project">
 </p>
 
+&nbsp;
+
 ### ✨ Features
 
 - **First example:** description here...
